@@ -1,0 +1,22 @@
+{
+  "name": "node.js-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "D": "^1.0.0",
+    "tex": "^1.0.2",
+    "tsx": "^4.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0"
+  }
+}
